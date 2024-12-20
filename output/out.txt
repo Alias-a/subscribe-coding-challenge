@@ -1,0 +1,4 @@
+1  box of chocolates: 10.5
+1  bottle of perfume: 54.62
+Sales Taxes: 13.26
+Total: 65.13
