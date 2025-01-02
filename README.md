@@ -1,4 +1,4 @@
-# Subscirbe Take Home 
+# Subscribe Take Home 
 
 This app is a rudimentary solution to the given take-home coding challenge.
 
